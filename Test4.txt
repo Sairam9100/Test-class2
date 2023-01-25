@@ -1,0 +1,3 @@
+Chaala tantaalu paddaka 
+telisindi commit cheyyaledu ani
+so next time nunchi push or pull mundu commit cheyyali
